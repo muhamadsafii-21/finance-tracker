@@ -3,7 +3,7 @@
 Aplikasi pelacak keuangan pribadi untuk membantu kamu memantau pemasukan dan pengeluaran setiap hari.
 
 ## 📸 Preview
-![Dashboard Utama](path/ke/gambar-dashboard.png)
+![Dashboard Utama](path/ke/gambar-Dashboard.png)
 
 ## 🚀 Tech Stack
 - **Framework:** Vite + React
